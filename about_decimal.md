@@ -1,2 +1,2 @@
-## About decimal by Hatchesn
-# Структура проекта
+# About decimal by Hatchesn
+## Project structure
