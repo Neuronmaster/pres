@@ -155,10 +155,13 @@
 Я в своем пректе использовал Big Decimal по аналогии с С#
 
 typedef struct {
+
   unsigned int bits[6];
+
 } s21_big_decimal;
 
-##### Умножение 
+
+##### Multiplication
 
 
 
